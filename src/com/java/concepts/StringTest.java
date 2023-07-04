@@ -12,7 +12,7 @@ public class StringTest {
 	}
 	public static void main(String[] args) {
 		
-		String s = "james gosling";
+		String s = " james gosling";
 		
 		String s1 = "James gosling";
 		
