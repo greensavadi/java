@@ -13,7 +13,7 @@ public class HashSetTest {
 	public static void main(String[] args) {
 		
 		Set<Integer> hs = new TreeSet<>();
-		
+		hs.add(89);
 		hs.add(78);
 		hs.add(76);
 		hs.add(73);
