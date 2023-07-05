@@ -5,8 +5,8 @@ public class StudentDetails {
 	int a = 10;
 	String s = "qwer";
 	
-	public void student() {
-		System.out.println("Student");
+	public void Mathan() {
+		System.out.println("Mathan");
 	}
 	
 	public void student(String name) {		//String name = "Navin";
