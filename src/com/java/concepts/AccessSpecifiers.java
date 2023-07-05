@@ -7,7 +7,7 @@ public class AccessSpecifiers {
 	}
 	
 	private void studentName() {
-		System.out.println("private method");
+		System.out.println("public");
 	}
 	
 	protected void studentContact() {
